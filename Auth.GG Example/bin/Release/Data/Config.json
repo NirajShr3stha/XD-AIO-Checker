@@ -1,0 +1,1 @@
+{"threads":200,"ui":2,"timeout":7000,"showbad":"True","webhook":"WEBHOOK URL HERE","hitstowebhook":"False","usewebhook":"False","showgood":"True","proxytype":"http","refreshrate":200,"show2fa":"True","showlocked":"True"}
